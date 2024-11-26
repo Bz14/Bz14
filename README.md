@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Eyerusalem Bezu, a full-stack web developer with a passion for creating innovative and user-friendly applications. I enjoy learning new technologies and improving my skills in both frontend and backend development.<br><br>🌟 Skills:<br><br>Frontend: HTML, CSS, JavaScript, React, Tailwind, NextJs<br>Backend: Golang, Gin Framework<br>Database: MySQL, MongoDB<br>Tools: Git, GitHub<br>💡 I'm always open to collaboration and excited about new challenges. Feel free to explore my projects and connect with me!<br><br>📫 You can reach me at bezueyerusalem@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/eybz).
+👋 Hi there! I'm Eyerusalem Bezu, a full-stack web developer with a passion for creating innovative and user-friendly applications. I enjoy learning new technologies and improving my skills in both frontend and backend development.<br><br>🌟 Skills:<br><br>Frontend: HTML, CSS, JavaScript, React, Tailwind, NextJs<br>Backend: Golang, Gin Framework, NodeJs, ExpressJs<br>Database: MySQL, MongoDB<br>Tools: Git, GitHub<br>💡 I'm always open to collaboration and excited about new challenges. Feel free to explore my projects and connect with me!<br><br>📫 You can reach me at bezueyerusalem@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/eybz).
 
 
 ## 🌐 Socials:
