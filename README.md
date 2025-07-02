@@ -8,11 +8,6 @@ I'm a passionate **Software Engineer** from Addis Ababa, Ethiopia, with a focus 
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eybz)
-
----
-
 ## 💻 Tech Stack
 
 ### Programming Languages
